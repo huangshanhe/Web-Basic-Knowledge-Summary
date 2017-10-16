@@ -1,4 +1,4 @@
-# Web-Basic-knowledge-summary #
+# Web-Basic-Knowledge-Summary #
 分享一下最全前端基础知识总结
 面试常问js、html、css基础知识
 * 喜欢并且有帮助记得Star一下喔，谢谢
